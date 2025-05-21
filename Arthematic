@@ -1,0 +1,4 @@
+sum=100
+n=int(input("enter value"))
+sum*=n
+print(sum)
